@@ -2,6 +2,9 @@
 
 This project sets itself apart from other data analytics projects, showcasing the remarkable capabilities of Excel in data analysis.
 
+![](Untitled%20design%20(4).png)
+
+
 ## Introduction
 
 Let's embark on this data journey together through a story! So, I have this friend who's a teacher. He was quite stressed out because he had to manually calculate and write his students' scores for their report cards. After hearing his struggles, I suggested automating the process. Unfortunately, due to the school's limited budget, full automation seemed impossible. This sparked the idea of creating a completely automated report generation project. All you need to do is change the student's number.
@@ -56,3 +59,6 @@ The third sheet, Report Card, displays individual student information and result
 ## Special Note
 
 This project aims to demonstrate that even with limited resources and tools (such as lacking Microsoft 365 and other Power Platform apps), a school can automate the creation of students' report cards. Adding new students is a breeze as well. Just input a new student record, and the Report Card page will automatically generate a report (enter the new student's number to view their results). While this project can be expanded with Power Platform (Power Apps, Power Automate, and Power BI), I opted for Microsoft Excel due to simplicity and budget constraints.
+
+
+![image](https://github.com/iamcbn/Hotel-Guests-Analysis/assets/132440348/bb514707-1966-433b-ae43-4d052197930b)
