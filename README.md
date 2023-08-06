@@ -14,7 +14,10 @@ Dealing with the hassle of compiling scores and writing report cards by hand.
 
 The dataset was created using Python's Faker library based on specific criteria I provided. You can take a look at the complete code I used by clicking [here](https://github.com/iamcbn/Students-Records/blob/main/Student%20Records.ipynb)!
 
-[Insert a screenshot of the code snippet as well as the dataset]
+
+ ![](Code%20Snippet.png)  
+ 
+ ![](Excel%20Snippet.png)
 
 ## Tools Used/Concepts Applied
 
@@ -44,6 +47,11 @@ The second worksheet, Student Scores, includes student numbers, total percentage
 ### Report Card
 
 The third sheet, Report Card, displays individual student information and results. To view a student's report card, you only need to change the student number. Additionally, I resolved the challenge of writing personalized comments for each student. Upon displaying a report card, you'll find a tailored principal's comment based on the student's classroom performance. To accomplish this, I employed XLOOKUP (note that VLOOKUP can also be used), conditional formatting, concatenate function, and others.
+
+
+| 1 | 2
+| --- | ---
+| ![](Report%20snippet%201.png) | ![](Report%20snippet%202.png)
 
 ## Special Note
 
