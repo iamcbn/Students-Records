@@ -12,7 +12,7 @@ Dealing with the hassle of compiling scores and writing report cards by hand.
 
 ## Data Source
 
-The dataset was created using Python's Faker library based on specific criteria I provided. You can take a look at the complete code I used by clicking here!
+The dataset was created using Python's Faker library based on specific criteria I provided. You can take a look at the complete code I used by clicking [here](https://github.com/iamcbn/Students-Records/blob/main/Student%20Records.ipynb)!
 
 [Insert a screenshot of the code snippet as well as the dataset]
 
